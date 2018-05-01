@@ -1,0 +1,31 @@
+{
+  "name": "@pomegranate/common-modules",
+  "version": "0.0.0",
+  "description": "The common modules shared by Pomegranate. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Pomegranate",
+    "Pomegranate-structural"
+  ],
+  "author": "Jim Bulkowski <jim.b@paperelectron.com> (http://paperelectron.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pomegranate/common-modules.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pomegranate/common-modules/issues"
+  },
+  "homepage": "https://github.com/Pomegranate/common-modules#readme",
+  "dependencies": {
+    "@pomegranate/framework-logger": "^0.1.1",
+    "@pomegranate/framework-utils": "^0.2.2",
+    "@pomegranate/plugin-facade": "^1.0.3",
+    "@pomegranate/plugin-finder": "^1.0.2",
+    "@pomegranate/plugin-iterator": "^1.0.0",
+    "@pomegranate/toposorter": "^1.0.0"
+  }
+}
