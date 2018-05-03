@@ -13,6 +13,11 @@
  */
 
 module.exports = {
+  Framework: {
+    name: '@pomegranate/framework',
+    module: require('@pomegranate/framework'),
+    version: require('@pomegranate/framework/package').version
+  },
   PluginFacade: {
     name: '@pomegranate/plugin-facade',
     module: require('@pomegranate/plugin-facade'),
