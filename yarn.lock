@@ -35,9 +35,9 @@
     lodash "^4.17.4"
     magnum-di "^3.2.0"
 
-"@pomegranate/plugin-facade@^2.0.2":
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/@pomegranate/plugin-facade/-/plugin-facade-2.0.2.tgz#5b9e750d83ecc90a141237f4d89c445766608637"
+"@pomegranate/plugin-facade@^2.1.0":
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/@pomegranate/plugin-facade/-/plugin-facade-2.1.0.tgz#13c7d1f93b581f8702ca7824f545198b2f7328c1"
   dependencies:
     bluebird "^3.5.0"
     chalk "^2.3.0"
