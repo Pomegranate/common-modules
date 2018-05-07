@@ -1,6 +1,6 @@
 {
   "name": "@pomegranate/common-modules",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "The common modules shared by Pomegranate. ",
   "main": "index.js",
   "scripts": {
