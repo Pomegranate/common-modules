@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/Pomegranate/common-modules#readme",
   "dependencies": {
-    "@pomegranate/framework": "^1.1.1",
+    "@pomegranate/framework": "^1.1.2",
     "@pomegranate/framework-logger": "^1.0.0",
     "@pomegranate/framework-utils": "^1.0.0",
     "@pomegranate/plugin-facade": "^2.1.0",

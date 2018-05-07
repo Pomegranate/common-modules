@@ -27,9 +27,9 @@
     fs-extra "^4.0.1"
     lodash "^4.17.4"
 
-"@pomegranate/framework@^1.1.1":
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/@pomegranate/framework/-/framework-1.1.1.tgz#5b13780336b2f7a278cdb58640761e04c5b054db"
+"@pomegranate/framework@^1.1.2":
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@pomegranate/framework/-/framework-1.1.2.tgz#9abb43702c11b103fe0ee0c3b6d69856ceb84dac"
   dependencies:
     chalk "^2.3.0"
     lodash "^4.17.4"
