@@ -16,9 +16,9 @@
     chalk "^2.3.0"
     lodash "^4.17.4"
 
-"@pomegranate/framework-utils@^1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@pomegranate/framework-utils/-/framework-utils-1.1.0.tgz#cbb1e1d130c59119f38e33a1d2382a755740cafb"
+"@pomegranate/framework-utils@^1.2.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@pomegranate/framework-utils/-/framework-utils-1.2.0.tgz#7faeb7441e9edbf4febf4b04f6e728d3d3fa9486"
   dependencies:
     "@pomegranate/framework-logger" "^0.1.1"
     bluebird "^3.5.0"
